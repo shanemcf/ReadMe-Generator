@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
-
+// npm install --save for terminal
 
 // array of questions for user
 
@@ -62,7 +62,7 @@ const questions = [
     },
     {
         type: 'text',
-        name: 'Github',
+        name: 'github',
         message: 'what is your username?',
     },
 
