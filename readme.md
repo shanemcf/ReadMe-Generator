@@ -1,20 +1,27 @@
-# this is the title of the application
+# ReadMe Generator
 
-  this is the description of the application
+  this will enable users to input answers and generate their ReadME
 
-  ## this is the Table of Contents
+  ## Table of Contents
+      N/a to this application
 
-  ## this is how you install the application
+  ## Installation
+     install npm Node
 
-  ## this is how you would use the application
+  ## Usage
+     user will input the guidelines and aspects of their application so that anybody reading will be able to understand with the information provided
 
-  ## MIT
+  ## License
+     MIT
 
-  ## this is who contributed to the application
+  ## Contributing
+     None
 
-  ## this is how you have tested the application
+  ## Testing
+     It was tested multiple times through VS Code and checked on GitHub
 
-  ## this is the email 
+  ## Support
+     shanemcfadden95@yahoo.com
 
-  ## this is the username
+  ## shanemcf
 

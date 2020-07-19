@@ -4,19 +4,26 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## ${data.TOC}
+  ## Table of Contents
+      ${data.TOC}
 
-  ## ${data.installation}
+  ## Installation
+     ${data.installation}
 
-  ## ${data.usage}
+  ## Usage
+     ${data.usage}
 
-  ## ${data.license}
+  ## License
+     ${data.license}
 
-  ## ${data.contributing}
+  ## Contributing
+     ${data.contributing}
 
-  ## ${data.tests}
+  ## Testing
+     ${data.tests}
 
-  ## ${data.questions}
+  ## Support
+     ${data.questions}
 
   ## ${data.github}
 
