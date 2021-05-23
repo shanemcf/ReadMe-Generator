@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-  this will enable users to input answers and generate their ReadME
+  this will enable users to input answers and generate their ReadMe
 
   ## Table of Contents
       N/a to this application
@@ -9,16 +9,16 @@
      install npm Node
 
   ## Usage
-     user will input the guidelines and aspects of their application so that anybody reading will be able to understand with the information provided
+     user will input the guidelines and aspects of their application so that anybody reading will be able to understand with information provided
 
   ## License
      MIT
 
   ## Contributing
-     None
+     none
 
   ## Testing
-     It was tested multiple times through VS Code and checked on GitHub
+     tested through vs code and checked on github
 
   ## Support
      shanemcfadden95@yahoo.com
